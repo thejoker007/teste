@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA1-Digest: pM9+/Xfk9vRzu6+psqK4ibENs2w=
+
+Name: assets/404r.html
+SHA1-Digest: omuj3KCibTUFAznFV4cCsD4GE3o=
+
+Name: classes.dex
+SHA1-Digest: HNMZapvd/PSYEJB9rOvNeyUB/H4=
+
+Name: res/drawable-hdpi/about.png
+SHA1-Digest: VAGOmY4E4lArveaTWIb6w2srFrM=
+
+Name: res/drawable-hdpi/exit.png
+SHA1-Digest: kS7jxRqrgTG72UTygFMOzn2wfSM=
+
+Name: res/drawable-hdpi/ic_share_white_24dp.png
+SHA1-Digest: C6r+GnXoi7AdWdnOPxrKFA5BYIM=
+
+Name: res/drawable-mdpi/about.png
+SHA1-Digest: eDDx+T9AdcZI82ZyNgRAjUOC58c=
+
+Name: res/drawable-mdpi/exit.png
+SHA1-Digest: i/KzalJLO+U+v4/bNsGYdOTaZTk=
+
+Name: res/drawable-mdpi/ic_share_white_24dp.png
+SHA1-Digest: hGwWSg64IornmTfuisVUNB27S84=
+
+Name: res/drawable-xhdpi/about.png
+SHA1-Digest: 41EngIVK2R83Z3jSMZ/Fzaok3eo=
+
+Name: res/drawable-xhdpi/exit.png
+SHA1-Digest: BTQgR66krhTdLjnrYFXUAPUygMY=
+
+Name: res/drawable-xhdpi/ic_share_white_24dp.png
+SHA1-Digest: TQeli2FqSbkz1c/ken14JcyAWNE=
+
+Name: res/drawable-xxhdpi/about.png
+SHA1-Digest: qcw6bZBNzToJ7j8bx8r0Z/kneoQ=
+
+Name: res/drawable-xxhdpi/exit.png
+SHA1-Digest: EOhJO83XJMXyh97ecaAutLxeUBI=
+
+Name: res/drawable-xxhdpi/ic_share_white_24dp.png
+SHA1-Digest: dhBkN04+8MXKWJYhG0qg/zZcp18=
+
+Name: res/drawable-xxxhdpi/about.png
+SHA1-Digest: BGayblsrbyZEFHRp68T3g5xHOIY=
+
+Name: res/drawable-xxxhdpi/exit.png
+SHA1-Digest: drWhqXb5D9TCtvCVMSiqp++cato=
+
+Name: res/drawable-xxxhdpi/ic_share_white_24dp.png
+SHA1-Digest: emJx20+AMZ5W8Uet2NBo3rF5EVE=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: NX4fiNXijKCsCFtgSPNqufKb1KU=
+
+Name: res/drawable/splash.png
+SHA1-Digest: 18M6wFgqq2vAu4SlLUa++hHm8/s=
+
+Name: res/drawable/wheel.png
+SHA1-Digest: yhBWhsfjJo5UGoaHARfujkusqus=
+
+Name: res/layout-v17/activity_main.xml
+SHA1-Digest: 90iekD3lZb6Y0x36m809bHOUfsM=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: pq3+V+08CQ0wqdVrIx8qHHD+wz0=
+
+Name: res/layout/spinr.xml
+SHA1-Digest: W8YkSsJlaXwxvnkUAvzXEV6WYHI=
+
+Name: res/layout/video_progress.xml
+SHA1-Digest: vKSKNicfP5PYYUJzEIybSij+8pU=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: 13j+Fa+HQLjdQ62Br63NVCopiAE=
+
+Name: resources.arsc
+SHA1-Digest: P/9Fy4juvnTA28ie/6qLGDPwu9Y=
+
